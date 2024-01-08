@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\intermediate\\build\\win64\\unrealeditor\\development\\ludwellunrealmath\\module.ludwellunrealmath.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\learningunreal\\cryptraider\\intermediate\\build\\win64\\cryptraidereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\intermediate\\build\\win64\\unrealeditor\\development\\ludwellunrealmath\\definitions.ludwellunrealmath.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\intermediate\\build\\win64\\unrealeditor\\inc\\ludwellunrealmath\\uht\\ludwellunrealmath.init.gen.cpp",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\intermediate\\build\\win64\\unrealeditor\\inc\\ludwellunrealmath\\uht\\sinoscillation.gen.cpp",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\source\\ludwellunrealmath\\public\\sinoscillation.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\intermediate\\build\\win64\\unrealeditor\\inc\\ludwellunrealmath\\uht\\sinoscillation.generated.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\source\\ludwellunrealmath\\private\\ludwellunrealmath.cpp",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\source\\ludwellunrealmath\\public\\ludwellunrealmath.h",
+            "d:\\learningunreal\\cryptraider\\plugins\\ludwellunrealmath\\source\\ludwellunrealmath\\private\\sinoscillation.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

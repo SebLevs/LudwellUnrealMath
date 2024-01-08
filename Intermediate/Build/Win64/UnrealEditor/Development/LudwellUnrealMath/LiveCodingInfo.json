@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LudwellUnrealMath.cpp.obj": [
+			"LudwellUnrealMath.init.gen.cpp.obj",
+			"SinOscillation.gen.cpp.obj",
+			"LudwellUnrealMath.cpp.obj",
+			"SinOscillation.cpp.obj"
+		]
+	}
+}

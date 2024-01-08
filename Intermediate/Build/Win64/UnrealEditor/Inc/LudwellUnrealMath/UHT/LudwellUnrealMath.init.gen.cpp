@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeLudwellUnrealMath_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xBE239703,
+				0x91ED9AA0,
 				0x0EF2BA54,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeLudwellUnrealMath_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_LudwellUnrealMath.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LudwellUnrealMath(Z_Construct_UPackage__Script_LudwellUnrealMath, TEXT("/Script/LudwellUnrealMath"), Z_Registration_Info_UPackage__Script_LudwellUnrealMath, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xBE239703, 0x0EF2BA54));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_LudwellUnrealMath(Z_Construct_UPackage__Script_LudwellUnrealMath, TEXT("/Script/LudwellUnrealMath"), Z_Registration_Info_UPackage__Script_LudwellUnrealMath, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x91ED9AA0, 0x0EF2BA54));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

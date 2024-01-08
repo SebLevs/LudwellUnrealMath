@@ -21,15 +21,14 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType,
 	                           FActorComponentTickFunction* ThisTickFunction) override;
 
-	UFUNCTION(BlueprintCallable, Category = "Ludwell|Math")
 	void Oscillate() const;
 
 private:
 	FVector InitialLocation;
 
-	UPROPERTY(Category = "Values", EditAnywhere)
+	UPROPERTY(Category = "Oscillation parameters", EditAnywhere)
 	FVector Amplitudes = FVector(1.0f, 1.0f, 1.0f);
 
-	UPROPERTY(Category = "Values", EditAnywhere)
+	UPROPERTY(Category = "Oscillation parameters", EditAnywhere)
 	FVector Frequencies = FVector(1.0f, 1.0f, 1.0f);
 };
