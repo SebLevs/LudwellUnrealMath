@@ -1,7 +1,5 @@
 #include "SinOscillation.h"
 
-// #include "Components/ActorComponent.h"
-
 USinOscillation::USinOscillation()
 {
 	PrimaryComponentTick.bCanEverTick = true;
